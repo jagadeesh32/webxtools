@@ -1,0 +1,7 @@
+name = "webxtools"
+type = "webpack"
+
+account_id = "f8140fe5a008d48a9c2d0a1f9571714d"
+workers_dev = true
+route = ""
+zone_id = ""
